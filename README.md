@@ -8,3 +8,6 @@ To wait to click
 PAUZA.
 To end a OS 
 KONIEC.
+
+Website to similary project
+http://seedos.scienceontheweb.net/
