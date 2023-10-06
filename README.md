@@ -1,5 +1,5 @@
 # SEEDIII_Lang
-My programming language to make your OS *VERY EASY*. 
+My programming language to make your OS for x86 processors *VERY EASY*. 
 
 Speed tutorial:
 
